@@ -10,4 +10,6 @@ In eatimator.ipynb, demostrate the life-time of using estimator according to the
 
 You can use estimator to train your custom model following the above steps(in estimator_template.ipynb) at free time
 
+add estimator_image
+
 
